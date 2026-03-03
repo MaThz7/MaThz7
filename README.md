@@ -4,7 +4,7 @@ Apaixonado por tecnologia e estudante de Desenvolvimento de Sistemas. Este repos
 - 🎯 Focado em me tornar Full Stack Developer
 
 ## Minhas Midias Sociais 📱
-[![linkedas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-oliveira-324899368)
+[![linkedas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-l-oliveira/)
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theus_lc7?utm_source=qr&igsh=MTkwbHhzdGwxczlwZQ==)
 
 
